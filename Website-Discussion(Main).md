@@ -10,4 +10,5 @@ https://www.canva.com/design/DAGRajifncM/EY1pftce5ywjZQiBK2vatg/edit?utm_content
 5. Started with the Polo Section (25th September)
 6. Completed the Polo Section. I've added the names, descriptions, prices, sizes available, types, SKUS, product info, return and refund poliy, shipping info, status and category (25th September)
 7. Started with Cap Section. (25th September)
-8. 
+8. Completed the Caps Section. I've added the names, descriptions, prices, sizes available, types, SKUS, product info, return and refund poliy, shipping info, status and category (25th September)
+9. Starting with Tote Bags Section. (25th September) 
