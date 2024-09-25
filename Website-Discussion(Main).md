@@ -13,4 +13,8 @@ https://www.canva.com/design/DAGRajifncM/EY1pftce5ywjZQiBK2vatg/edit?utm_content
 8. Completed the Caps Section. I've added the names, descriptions, prices, sizes available, types, SKUS, product info, return and refund poliy, shipping info, status and category (25th September)
 9. Starting with Tote Bags Section. (25th September) 
 Completed the Tote Bags Section. I've added the names, descriptions, prices, sizes available, types, SKUS, product info, return and refund poliy, shipping info, status and category (25th September)
-10. Completing the overall website (Homepage, about page, additional information.
+10. Completing the overall website (Homepage, about page, additional information. (25th September)
+11. Completed the overall Website (26th September)
+
+Wix Website Link:
+https://myuvendar.wixsite.com/luxestyle
