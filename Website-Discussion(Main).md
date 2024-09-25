@@ -6,3 +6,4 @@ https://www.canva.com/design/DAGRajifncM/EY1pftce5ywjZQiBK2vatg/edit?utm_content
 
 2. Completed T-Shirt and Hoodie Section yesterday. I've added the names, descriptions, prices, sizes available, types, SKUS, product info, return and refund poliy, shipping info, status and category (24th September)
 3. Started with Buttoned Shirts Section (25th September)
+4. Completed the Buttoned Shirts Section. Starting with the Polo Section
