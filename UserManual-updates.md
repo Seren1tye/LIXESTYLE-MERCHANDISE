@@ -9,3 +9,4 @@ First, i have written how to go to all our product categories so its easy to use
 Second, i have explained about how to add to cart a selected products so that it would be in the users cart and easy to proceed to following steps
 Then,i showed in detailed how too make sure to do the checkout and the payments so its a bit easy and customer wont get to stress about the payments
 Afterwards,i did add about how users can contact us through showing the way to search aout our contact details in the app in just three steps
+Lastly,i add a way on how to go back to the homescreen so users can start their progress from the very begining if they are lost. 
