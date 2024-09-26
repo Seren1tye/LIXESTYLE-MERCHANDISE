@@ -5,3 +5,4 @@ I written about menu/more,searchbutton,favourites,cart where i did elaborate pur
 I have created navigation guide by referring to the app and website
 I have written about homescreen, search,menu/more,contact us,about us
 Afterwards, i have created the functionality guides where i will be explaining about 5 function with complete guide.
+First, i have written how to go to all our product categories so its easy to users to select and purchase things they wanted
