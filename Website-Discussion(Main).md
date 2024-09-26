@@ -1,4 +1,5 @@
-# WIX 
+# WIX (Yuvendar)
+
 1. Designed our logo for LUXESTYLE and designed our products/ items such as the Hoodies, Buttoned Shirts, Polos, T-Shirts, Caps and Tote Bags. (21-23 September)
    
 Canva Link:
