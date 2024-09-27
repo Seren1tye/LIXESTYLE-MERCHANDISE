@@ -5,4 +5,5 @@
 3. App - Teh Zhao Jin & Fathullah
 
 4. Yuven have started and completed his part. (26th September)
-5. Other group members have started explaning their part. (27th September)
+5. Jin has Completed his part for the video. (27th September)
+6. Other group members have started explaning their part. (27th September)
