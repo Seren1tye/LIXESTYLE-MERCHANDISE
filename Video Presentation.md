@@ -1,5 +1,8 @@
-# Video Presentation 
+# Video Presentation (26th September)
 
-About LuxeStyle - Aimaan 
-Website - Yuven & Mukesh 
-App - Teh Zhao Jin & Fathullah 
+1. About LuxeStyle - Aimaan 
+2. Website - Yuven & Mukesh 
+3. App - Teh Zhao Jin & Fathullah
+
+4. Yuven have started and completed his part. (26th September)
+5. Other group members have started explaning their part. (27th September)
