@@ -6,4 +6,5 @@
 
 4. Yuven have started and completed his part. (26th September)
 5. Jin has Completed his part for the video. (27th September)
-6. Other group members have started explaning their part. (27th September)
+6. Anantha has completed his part for the video. (27th Sepptember)
+7. Other group members have started explaning their part. (27th September)
