@@ -9,4 +9,4 @@
 6. Anantha has completed his part for the video. (27th Sepptember)
 7. Aimaan has completed his part for the video. (27th September)
 8. Other group members have started explaning their part. (27th September)
-9. Compiled all group members videos and upload the final product into an unlisted youtube video.
+9. Compiled all group members videos and upload the final product into an unlisted youtube video. (27th September)
